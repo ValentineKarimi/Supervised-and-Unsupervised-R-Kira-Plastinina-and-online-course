@@ -1,4 +1,4 @@
-# Supervised-and- Unsupervised-R-Kira_Plastinina-and-online-course
+# Supervised-and- Unsupervised-R-Kira-Plastinina-and-online-course
 online crypt photography advertising
 
 
@@ -21,9 +21,9 @@ ValentineKarimi
 
 To start using this project use the following commands:
 
-git clone https://github.com/ValentineKarimi/Supervised-and-Unsupervised-R-Kira_Plastinina-and-online-course.git
+git clone https://github.com/ValentineKarimi/Supervised-and-Unsupervised-R-Kira-Plastinina-and-online-course.git
 
-cd Supervised-and- Unsupervised-R-Kira_Plastinina-and-online-course
+cd Supervised-and-Unsupervised-R-Kira-Plastinina-and-online-course
 
 code .
 
